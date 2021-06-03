@@ -1,0 +1,473 @@
+{
+    "wall_text": [
+        {
+            "id": "0",
+            "position": "-43.9 16.000 46.901",
+            "rotation": "0 90 0",
+            "text": "value: KUPU-KUPU; width: 15.000; align: left; line-height: 50; wrap-count: 20; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "1",
+            "position": "-43.9 14.000 46.901",
+            "rotation": "0 90 0",
+            "text": "value: Kupu-kupu merupakan serangga yang masuk dalam ordo Lepidoptera. Lepidoptera artinya adalah “scaled wings” atau “bersayap sisik”. Kebanyakan kupu-kupu mempunyai struktur tubuh atau anatomi yang sama. Tubuh kupu-kupu dewasa terdiri dari 3 bagian , kepala (head), dada (thorax) dan perut (abdomen).; width: 9; align: left; line-height: 50; wrap-count: 40.900; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "2",
+            "position": "-43.9 10 46.901",
+            "rotation": "0 90 0",
+            "text": "value: Kupu-kupu dibedakan dari ngengat atau kupu-kupu malam. Perbedaan ini berdasarkan waktu aktifnya dan ciri-ciri fisiknya. Umumnya kupu-kupu aktif di waktu siang (diurnal). Sementara ngengat aktif di waktu malam (nocturnal).; width: 9; align: left; line-height: 50; wrap-count: 40.900; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "3",
+            "position": "-43.9 10 35.802",
+            "rotation": "0 90 0",
+            "text": "value: Kupu-kupu dapat ditemukan di daerah tropis, hutan, rawa-rawa, sungai, rawa, padang rumput, lahan pertanian dan kebun. Kupu-kupu biasanya tinggal di suatu tempat selama beberapa hari atau tinggal selama berminggu-minggu dan kemudian bermigrasi.; width: 9; align: left; line-height: 50; wrap-count: 40.900; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 16.000 23.500",
+            "rotation": "0 90 0",
+            "text": "value: ALUR HIDUP KUPU-KUPU; width: 14.280; align: left; line-height: 50; wrap-count: 19.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 7.938 23.500",
+            "rotation": "0 90 0",
+            "text": "value: Kupu-kupu hidup melalui siklus perubahan bentuk/fisik yang disebut metamorfosis. Kupu-kupu mengalami metamorfosis sempurna dimana mereka akan mengalami perubahan bentuk lewat 4 fase, yakni fase telur, fase larva, fase pupa/kepompong, dan fase dewasa.; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 8.951 12.352",
+            "rotation": "0 90 0",
+            "text": "value: 1. TELUR; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 7.938 12.352",
+            "rotation": "0 90 0",
+            "text": "value: Telur adalah tahap awal ketika kupu-kupu pertama lahir. Telur ditempelkan pada bagian bawah daun untuk menghindari pemangsa. Telur menempel berkat zat perekat yang keluar dari induk yang juga berguna sebagai pelindung lapisan luar telur. Telur kupu-kupu membutuhkan waktu satu bulan lebih untuk menetas.; width: 10.110; align: left; line-height: 50; wrap-count: 42.820; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 8.951 -1.006",
+            "rotation": "0 90 0",
+            "text": "value: 2. ULAT; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 7.938 -1.006",
+            "rotation": "0 90 0",
+            "text": "value: Ketika menetas, telur akan menjadi ulat atau larva. Pada tahap ini ulat hanya bisa makan hingga tahap metamorfosis selanjutnya. Makanan ulat pada umumnya daun hijau segar. Ulat kupu-kupu dapat mengeluarkan racun ketika terancam yang dapat membunuh hewan 10 kali lebih besar darinya.; width: 10.110; align: left; line-height: 50; wrap-count: 42.820; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 8.951 -13.694",
+            "rotation": "0 90 0",
+            "text": "value: 3. KEPOMPONG; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 7.938 -13.694",
+            "rotation": "0 90 0",
+            "text": "value: Ulat dewasa berubah menjadi sebuah tempurung yang terbuat dari benang alami yang terbuat dari daun yang diolah oleh tubuh ulat dan mengandung sutera. Ulat akan tidur dan mencerna dirinya sendiri dengan cairan enzim yang keluar dari tubuh sekitar 2 minggu.; width: 10.110; align: left; line-height: 50; wrap-count: 42.820; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 8.951 -27.178",
+            "rotation": "0 90 0",
+            "text": "value: 4. IMAGO; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-43.9 7.938 -27.178",
+            "rotation": "0 90 0",
+            "text": "value: Ulat di dalam kepompong akan berubah menjadi bentuk dewasa, yaitu kupu-kupu. Kupu-kupu baru akan menyesuaikan diri dengan lingkungan sekitar dengan cara makan dan berlindung dari predator. Setelah mereka kuat membentangkan sayap, mereka baru berani terbang dan bepergian sesuka hati.; width: 10.110; align: left; line-height: 50; wrap-count: 42.820; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12 16.000 -3",
+            "rotation": "0 -90 0",
+            "text": "value: ANATOMI KUPU-KUPU; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 16.000 7.295",
+            "rotation": "0 -90 0",
+            "text": "value: 1. KEPALA (HEAD); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 15.000 7.295",
+            "rotation": "0 -90 0",
+            "text": "value: Kepala adalah bagian dari serangga yang berisi otak, 2 mata kompon, probosis dan faring (tenggorokan, dimana merupakan awal dari sistem pencernaaan), dan 2 antena yang terpasang di kepala.; width: 9.230; align: left; line-height: 50; wrap-count: 39.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 11.745 7.295",
+            "rotation": "0 -90 0",
+            "text": "value: 2. ANTENA (ANTENNEA); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 10.745 7.295",
+            "rotation": "0 -90 0",
+            "text": "value: Antena adalah alat sensor yang terdapat di kepala serangga dewasa.  Antena ini digunakan untuk mencium dan keseimbangan. Kupu-kupu mempunyai 2 antena dengan ujung yang sedikit membulat yang disebut sebagai antennal club.; width: 9.230; align: left; line-height: 50; wrap-count: 39.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 7.526 7.295",
+            "rotation": "0 -90 0",
+            "text": "value: 3. MATA COMPON (COMPOUND EYE); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 6.526 7.295",
+            "rotation": "0 -90 0",
+            "text": "value: Mata kompon kupu-kupu terdiri dari banyak lensa hexagonal seperti halnya pada mata kompon serangga lainnya. Kupu-kupu hanya dapat melihat warna merah, hijau dan kuning saja.; width: 9.130; align: left; line-height: 50; wrap-count: 38.690; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 16.000 19.000",
+            "rotation": "0 -90 0",
+            "text": "value: 4. PROBOSIS (PROBOSCIS); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 15.000 19.000",
+            "rotation": "0 -90 0",
+            "text": "value: Kupu-kupu dewasa menghisap nektar bunga dan cairan lainnya dengan menggunakan probosis atau mulut penghisap yang seperti sedotan spiral. Ketika tidak digunakan, probosis ini akan digulung melingkar seperti selang air.; width: 8.930; align: left; line-height: 50; wrap-count: 37.830; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 11.745 19.000",
+            "rotation": "0 -90 0",
+            "text": "value: 5. PALP LABIAL (LABIAL PALPS); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 10.745 19.000",
+            "rotation": "0 -90 0",
+            "text": "value: Palp labial membantu kupu-kupu untuk menentukan apakah sesuatu itu merupakan makanan atau bukan.; width: 9.230; align: left; line-height: 50; wrap-count: 39.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 8.565 19.000",
+            "rotation": "0 -90 0",
+            "text": "value: 6. DADA (THORAX); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 7.588 19.000",
+            "rotation": "0 -90 0",
+            "text": "value: Dada adalah bagian diantara kepala (head) dan perut (abdomen) dimana kaki dan sayap terpasang.; width: 9.230; align: left; line-height: 50; wrap-count: 39.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 5.299 19.000",
+            "rotation": "0 -90 0",
+            "text": "value: 7. SAYAP BELAKANG (HINDWING); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 4.296 19.000",
+            "rotation": "0 -90 0",
+            "text": "value: Hind wing adalah sepasang sayap yang berada paling bawah.; width: 9.230; align: left; line-height: 50; wrap-count: 39.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 16.000 31.000",
+            "rotation": "0 -90 0",
+            "text": "value: 8. SAYAP DEPAN (FOREWING); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 15.000 31.000",
+            "rotation": "0 -90 0",
+            "text": "value: Fore wing adalah sepasang sayap yang berada paling atas.; width: 9.230; align: left; line-height: 50; wrap-count: 39.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 13.168 31.000",
+            "rotation": "0 -90 0",
+            "text": "value:9. KAKI (LEGS); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 12.138 31.000",
+            "rotation": "0 -90 0",
+            "text": "value: Kupu-kupu mempunyai 6 kaki. Pada bagian kaki, terutama sepasang yang ditengah, dilengkapi dengan sensor penciuman yang membuat kupu-kupu dapat “merasakan” kandungan kimia pada tempatnya hinggap.; width: 9.230; align: left; line-height: 50; wrap-count: 39.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 8.843 31.000",
+            "rotation": "0 -90 0",
+            "text": "value: 10. PERUT (ABDOMEN); width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-12.000 7.843 31.000",
+            "rotation": "0 -90 0",
+            "text": "value: Perut merupakan bagian ekor serangga yang mempunyai segmentasi yang memiliki organ vital seperti jantung, tubulus atau pembuluh Malphigi untuk alat ekresi (pembuangan sisa metabolisme dan benda tidak berguna lainnya), organ reproduksi dan sebagian besar sistem pencernaan.; width: 9.230; align: left; line-height: 50; wrap-count: 39.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-35.487 16.000 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: SEJARAH  KUPU-KUPU; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-35.487 5.948 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: Perut merupakan bagian ekor serangga yang mempunyai segmentasi yang memiliki organ vital seperti jantung, tubulus atau pembuluh Malphigi untuk alat ekresi (pembuangan sisa metabolisme dan benda tidak berguna lainnya), organ reproduksi dan sebagian besar sistem pencernaan.; width: 13.060; align: left; line-height: 50; wrap-count: 55.320; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-17.582 16.000 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: EVOLUSI   KUPU-KUPU; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "-17.582 12.506 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: Di samping merupakan pohon evolusi dari beberapa macam spesies kupu-kupu.; width: 5.960; align: left; line-height: 50; wrap-count: 25.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "11.250 16.000 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: PERAN KUPU-KUPU DALAM KEHIDUPAN; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "11.250 12.171 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: - PENYERBUK BUNGA; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "11.250 11.171 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: Sama halnya dengan lebah, kupu-kupu juga merupakan penyerbuk bunga yang baik, yang dapat membantu perkembang biakan tanaman.; width: 9.360; align: left; line-height: 50; wrap-count: 39.420; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "11.250 8.700 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: - MENJAGA KESEIMBANGAN EKOSISTEM; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "11.250 7.700 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: Kupu-kupu merupakan predator bagi kutu daun, namun juga mangsa bagi banyak serangga atau hewan lain.; width: 8.220; align: left; line-height: 50; wrap-count: 34.540; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "23.513 12.171 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: - INDIKATOR EKOSISTEM YANG SEHAT; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "23.513 11.171 -51.888",
+            "rotation": "0 0 0",
+            "text": "value: Dikarenakan masa hidup kupu-kupu yang pendek, mereka dapat beradaptasi terhadap lingkungannya dengan cepat. Maka dari itu, perubahan-perubahan terhadap suatu ekosistem dapat diamati dengan berkurangnya jumlah kupu-kupu yang berada di sekitarnya.; width: 9.030; align: left; line-height: 50; wrap-count: 38.050; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "5.385 16 -12.108",
+            "rotation": "0 180.000 0",
+            "text": "value: KOLEKSI   KUPU-KUPU; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },        
+        {
+            "id": "0",
+            "position": "43.800 16 -44.300",
+            "rotation": "0 -90.000 0",
+            "text": "value: FUN FACT KUPU-KUPU; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 12.500 -44.300",
+            "rotation": "0 -90.000 0",
+            "text": "value: - TERDAPAT SEKITAR 1.700 SPESIES DI INDONESIA; width: 9.430; align: left; line-height: 50; wrap-count: 40; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },  
+        {
+            "id": "0",
+            "position": "43.800 11.500 -44.300",
+            "rotation": "0 -90.000 0",
+            "text": "value: Banyaknya hutan hujan tropis yang berada di Indonesia mengakibatkan beraneka ragamnya flora dan fauna, termasuk kupu-kupu. Meskipun begitu, jumlah spesies kupu-kupu di Indonesia hanya hampir mencapai 10% dari total spesies kupu-kupu di seluruh dunia.; width: 10.550; align: left; line-height: 50; wrap-count: 44.310; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 8.088 -44.300",
+            "rotation": "0 -90.000 0",
+            "text": "value: - TERDAPAT LEBIH DARI 18.000 SPESIES; width: 9.430; align: left; line-height: 50; wrap-count: 40; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },  
+        {
+            "id": "0",
+            "position": "43.800 7.088 -44.300",
+            "rotation": "0 -90.000 0",
+            "text": "value: Fosil kupu-kupu pertama diperkirakan telah hidup 40-50 juta tahun yang lalu. Akibat dari itu, kupu-kupu telah berevolusi menjadi banyak spesies untuk menyesuaikan dengan perubahan-perubahan yang terjadi selama itu.; width: 10.550; align: left; line-height: 50; wrap-count: 44.310; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 12.500 -30.607",
+            "rotation": "0 -90.000 0",
+            "text": "value: - SAYAP KUPU-KUPU BERSIFAT TRANSPARAN; width: 9.430; align: left; line-height: 50; wrap-count: 40; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },  
+        {
+            "id": "0",
+            "position": "43.800 11.500 -30.607",
+            "rotation": "0 -90.000 0",
+            "text": "value: Sayap kupu-kupu sebenarnya terbuat dari bahan yang bernama kitin yang bersifat transparan. Warna-warna yang dapat kita lihat di sayap kupu-kupu adalah warna yang dipantulkan oleh sisik-sisik yang melapisi sayap kupu-kupu tersebut.; width: 10.550; align: left; line-height: 50; wrap-count: 44.310; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 8.088 -30.607",
+            "rotation": "0 -90.000 0",
+            "text": "value: - KUPU-KUPU MEMILIKI 4 SAYAP; width: 9.430; align: left; line-height: 50; wrap-count: 40; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },  
+        {
+            "id": "0",
+            "position": "43.800 7.088 -30.607",
+            "rotation": "0 -90.000 0",
+            "text": "value: Meskipun pergerakan sayap kupu-kupu terlihat seperti mereka hanya memiliki sepasang sayap, namun sebenarnya mereka memiliki dua pasang sayap, dua di depan dan dua di belakang.; width: 10.550; align: left; line-height: 50; wrap-count: 44.310; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 16 -16.062",
+            "rotation": "0 -90.000 0",
+            "text": "value: CARA MERAWAT FACT KUPU-KUPU; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 12.500 -16.062",
+            "rotation": "0 -90.000 0",
+            "text": "value: - MELEPAS KUPU-KUPU KETIKA MULAI TERBANG; width: 9.430; align: left; line-height: 50; wrap-count: 40; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },  
+        {
+            "id": "0",
+            "position": "43.800 11.500 -16.062",
+            "rotation": "0 -90.000 0",
+            "text": "value: Kupu-kupu mempunyai kesempatan terbaik untuk bertahan hidup jika kita membebaskan mereka, dibandingkan mencoba menyimpan mereka di dalam ruangan.; width: 11.920; align: left; line-height: 50; wrap-count: 50; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 8.979 -16.062",
+            "rotation": "0 -90.000 0",
+            "text": "value: - BUAT SEBUAH TAMAN BUNGA; width: 9.430; align: left; line-height: 50; wrap-count: 40; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },  
+        {
+            "id": "0",
+            "position": "43.800 7.979 -16.062",
+            "rotation": "0 -90.000 0",
+            "text": "value: Kita dapat mebuat taman bagi kupu-kupu dengan jenis seperti Milkweed, Dill, Fennel, Peterseli, Bee balm dan Mint untuk menarik kupu kupu.; width: 11.920; align: left; line-height: 50; wrap-count: 50; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 12.500 -1.115",
+            "rotation": "0 -90.000 0",
+            "text": "value: - MEMBERI PAKAN KUPU-KUPU LARUTAN GULA; width: 9.430; align: left; line-height: 50; wrap-count: 40; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },  
+        {
+            "id": "0",
+            "position": "43.800 11.500 -1.115",
+            "rotation": "0 -90.000 0",
+            "text": "value: Kita dapat menggunakan spons kecil yang direndam di larutan gula dengan takaran 1 gula banding 4 air  Jangan menaruh larutan gula di piring atau membuat genangan larutan gula, karena kupu-kupu dapat terjebak di larutan tersebut.; width: 11.450; align: left; line-height: 50; wrap-count: 48.000; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 16 14.152",
+            "rotation": "0 -90.000 0",
+            "text": "value: ALIAN BUTTERFLY PARK; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        }, 
+        {
+            "id": "0",
+            "position": "43.800 5.455 14.152",
+            "rotation": "0 -90.000 0",
+            "text": "value: Alian Butterfly Park merupakan tempat wisata edukasi berbasis penangkaran kupu-kupu.; width: 9.720; align: left; line-height: 50; wrap-count: 39.920; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 12.208 28.142",
+            "rotation": "0 -90.000 0",
+            "text": "value: Berlokasi di desa Krakal, kecamatan Alian, kabupaten Kebumen, Jawa Tengah. Didirikan pada 1 Juli 2015. Konsep pembangunan taman kupu-kupu ini didasarkan pada realita.; width: 9.340; align: left; line-height: 50; wrap-count: 39.100; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 9.650 28.142",
+            "rotation": "0 -90.000 0",
+            "text": "value: Taman wisata dilengkapi dengan wahana taman kupu-kupu hidup, museum koleksi awetan kupu-kupu dari seluruh kepulauan nusantara dan ruang audio visual pemutaran film dokumenter.; width: 9.340; align: left; line-height: 50; wrap-count: 39.100; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "43.800 7.129 28.142",
+            "rotation": "0 -90.000 0",
+            "text": "value: Terdapat sekitar 175 jenis kupu-kupu di Kebumen . Beberapa di antaranya merupakan jenis kupu-kupu dengan nilai keindahan tinggi, seperti troides helena, papilio memnon, dan losaria coon.; width: 9.720; align: left; line-height: 50; wrap-count: 39.920; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 16 43.222",
+            "rotation": "0 90.000 0",
+            "text": "value: CARA BERTAHAN HIDUP KUPU-KUPU; width: 13.160; align: left; line-height: 50; wrap-count: 17.600; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 6.796 43.222",
+            "rotation": "0 90.000 0",
+            "text": "value: - KAMUFLASE; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 5.796 43.222",
+            "rotation": "0 90.000 0",
+            "text": "value: Kupu-kupu berkamuflase dengan warna, pola, dan tekstur yang memungkinkannya menyatu dengan dengan latar belakang atau keadaan yang alami.; width: 9.360; align: left; line-height: 50; wrap-count: 39.460; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 6.796 30.556",
+            "rotation": "0 90.000 0",
+            "text": "value: - MENYAMAR; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 5.796 30.556",
+            "rotation": "0 90.000 0",
+            "text": "value: Penyamaran adalah ketika kupu-kupu memiliki penampilan serupa dengan benda alami lainnya, seperti daun atau bunga.; width: 9.030; align: left; line-height: 50; wrap-count: 37.930; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 6.796 18.099",
+            "rotation": "0 90.000 0",
+            "text": "value: - APOSEMATIC COLORATION; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 5.796 18.099",
+            "rotation": "0 90.000 0",
+            "text": "value: Kupu-kupu memiliki sayap yang warna aposematik sehingga membuat predator berfikir bahwa mereka adalah mahkluk beracun.; width: 9.510; align: left; line-height: 50; wrap-count: 39.900; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 6.796 5.548",
+            "rotation": "0 90.000 0",
+            "text": "value: - HIBERNASI; width: 7.650; align: left; line-height: 50; wrap-count: 32.530; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "12.000 5.796 5.548",
+            "rotation": "0 90.000 0",
+            "text": "value: Kupu-kupu berdarah dingin. Akibatnya selama cuaca panas, dingin atau kering, mereka akan melakukan hibernasi dengan menjaga metabolisme tetap rendah.; width: 10.220; align: left; line-height: 50; wrap-count: 42.810; shader: flat; color: #000000; anchor: left; baseline: top;"
+        },
+        {
+            "id": "0",
+            "position": "32.292 16.000 51.795",
+            "rotation": "0 180.000 0",
+            "text": "value: KEMBALI KE MENU UTAMA; width: 9.220; align: left; line-height: 50; wrap-count: 12.080; shader: flat; color: #000000; anchor: left; baseline: top;"
+        }
+        
+    ]
+}
