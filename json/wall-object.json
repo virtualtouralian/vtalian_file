@@ -4,7 +4,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/kupukupu.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/kupukupu.png); shader: flat",
             "geometry": "width: 8.440; height: 4.440 ",
             "position": "-43.900 13.052 31.457",
             "rotation": "0 90 0"
@@ -13,7 +13,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/meta1.jpg); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/meta1.jpg); shader: flat",
             "geometry": "width: 7.250; height: 3.720 ",
             "position": "-43.900 10.521 19.622",
             "rotation": "0 90 0"
@@ -22,7 +22,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/meta2.jpg); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/meta2.jpg); shader: flat",
             "geometry": "width: 7.500; height: 4.000 ",
             "position": "-43.900 11.730 8.573",
             "rotation": "0 90 0"
@@ -31,7 +31,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/meta3.jpg); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/meta3.jpg); shader: flat",
             "geometry": "width: 7.500; height: 4.000 ",
             "position": "-43.900 11.730 -4.789",
             "rotation": "0 90 0"
@@ -40,7 +40,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/meta4.jpg); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/meta4.jpg); shader: flat",
             "geometry": "width: 7.500; height: 4.000 ",
             "position": "-43.900 11.730 -17.466",
             "rotation": "0 90 0"
@@ -49,7 +49,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/meta5.jpg); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/meta5.jpg); shader: flat",
             "geometry": "width: 7.500; height: 4.000 ",
             "position": "-43.900 11.730 -30.976",
             "rotation": "0 90 0"
@@ -58,7 +58,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/anatomi.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/anatomi.png); shader: flat",
             "geometry": "width: 6; height: 5 ",
             "position": "-11.986 10.148 -0.588",
             "rotation": "0 -90 0"
@@ -67,7 +67,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/sejarah.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/sejarah.png); shader: flat",
             "geometry": "width: 10.000; height: 5.000 ",
             "position": "-30.472 9.561 -51.888",
             "rotation": "0 0 0"
@@ -76,7 +76,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/evolusi.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/evolusi.png); shader: flat",
             "geometry": "width: 15.000; height: 15.000 ",
             "position": "-0.791 10.105 -51.888",
             "rotation": "0 0 0"
@@ -85,7 +85,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/alian.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/alian.png); shader: flat",
             "geometry": "width: 9.950; height: 6.000 ",
             "position": "43.931 9.481 19.251",
             "rotation": "0 -90.000 0"
@@ -94,7 +94,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/kamuflase.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/kamuflase.png); shader: flat",
             "geometry": "width: 7.790; height: 5.000 ",
             "position": "12.000 10.213 39.102",
             "rotation": "0 90.000 0"
@@ -103,7 +103,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/penyamaran.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/penyamaran.png); shader: flat",
             "geometry": "width: 7.790; height: 5.000 ",
             "position": "12.000 10.213 26.660",
             "rotation": "0 90.000 0"
@@ -112,7 +112,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/aposematik.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/aposematik.png); shader: flat",
             "geometry": "width: 7.790; height: 5.000 ",
             "position": "12.000 10.213 14.159",
             "rotation": "0 90.000 0"
@@ -121,7 +121,7 @@
             "id": "0",
             "name": "test",
             "scale": "1 1 0.1",
-            "material": "src: url(./img/content/hibernasi.png); shader: flat",
+            "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/hibernasi.png); shader: flat",
             "geometry": "width: 7.790; height: 5.000 ",
             "position": "12.000 10.213 1.627",
             "rotation": "0 90.000 0"

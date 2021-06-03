@@ -7,7 +7,7 @@
             "position": "-3.516 1.104 0.1",
             "scale": "1 1 1",
             "modelId":"model1",
-            "model": "../gltf/Butterfly1.gltf",
+            "model": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/Butterfly1.gltf",
             "content": [
                 {
                     "text": "value: KUPU-KUPU RAJA1112; width: 3; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;",
@@ -22,7 +22,7 @@
             "position": "3.516 1.104 0.1",
             "scale": "1 1 1",
             "modelId":"model2",
-            "model": "../gltf/Butterfly2.gltf",
+            "model": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/Butterfly2.gltf",
             "content": [
                 {
                     "text": "value: KUPU-KUPU RAJA22; width: 3; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;",
@@ -37,7 +37,7 @@
             "position": "1.146 1.104 0.1",
             "scale": "1 1 1",
             "modelId":"model3",
-            "model": "../gltf/Butterfly3.gltf",
+            "model": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/Butterfly3.gltf",
             "content": [
                 {
                     "text": "value: KUPU-KUPU RAJA125; width: 3; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;",
