@@ -2,18 +2,18 @@
     "wall_audio": [
         {
             "id": "0",
-            "position": "10 0 0",            
-            "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-creativeminds.mp3);"
+            "position": "-43.917 6.065 35.329",            
+            "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-anewbeginning.mp3);"
         },
         {
             "id": "1",
-            "position": "-10 0 0",            
+            "position": "-43.917 6.065 30.948",            
             "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-creativeminds.mp3);"
         },
         {
-            "id": "1",
-            "position": "-5 0 0",            
-            "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-creativeminds.mp3);"
+            "id": "2",
+            "position": "-43.917 6.065 27.211",            
+            "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3);"
         }
     ]
 }
