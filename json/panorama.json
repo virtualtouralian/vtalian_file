@@ -3,7 +3,7 @@
         {
             "id": "1",
             "photoId": "point2",
-            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/sky2.jpg",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/360_1.jpg",
             "photoClass": "map360 map360-on",
             "envId": "group-point2",
             "envScale": "0 0 0",
@@ -48,7 +48,7 @@
         {
             "id": "1",
             "photoId": "point2_1",
-            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/sky2_1.jpg",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/360_2.jpg",
             "photoClass": "map360",
             "envId": "group-point2_1",
             "envScale": "0 0 0",
@@ -80,7 +80,7 @@
         {
             "id": "1",
             "photoId": "point2_2",
-            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/sky2_2.jpg",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/360_4.jpg",
             "photoClass": "map360",
             "envId": "group-point2_2",
             "envScale": "0 0 0",
