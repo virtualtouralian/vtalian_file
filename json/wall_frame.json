@@ -1,0 +1,116 @@
+{
+    "wall_frame" : [
+      {
+        "id":"wf1",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position":"-43.900 13.052 31.457",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.14 0.11"
+      },
+      {
+        "id":"wf2",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position":"-43.900 10.521 19.622",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.12 0.095"
+      },
+      {
+        "id":"wf3",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position":"-43.900 11.730 8.573",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.12 0.1"
+      },
+      {
+        "id":"wf4",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position":"-43.900 11.730 -4.789",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.12 0.1"
+      },
+      {
+        "id":"wf5",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position":"-43.900 11.730 -17.466",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.12 0.1"
+      },
+      {
+        "id":"wf6",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position":"-43.900 11.730 -30.976",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.12 0.1"
+      },
+      {
+        "id":"wf7",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position": "-11.986 10.148 -0.588",
+        "rotation":"90 0 180",
+        "scale":"0.2 0.1 0.12"
+      },
+      {
+        "id":"wf8",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position":"-30.472 9.561 -51.5",
+        "rotation":"90 -90 0",
+        "scale":"0.2 0.16 0.12"
+      },
+      {
+        "id":"wf9",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position": "-0.791 10.105 -51.888",
+        "rotation":"90 -90 0",
+        "scale":"0.2 0.26 0.4"
+      },
+      {
+        "id":"wf10",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position": "43.931 9.4 19.251",
+        "rotation":"90 0 180",
+        "scale":"0.2 0.17 0.15"
+      },
+      {
+        "id":"wf11",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position": "12.000 10.213 39.102",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.13 0.12"
+      },
+      {
+        "id":"wf12",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position": "12.000 10.213 26.660",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.13 0.12"
+      },
+      {
+        "id":"wf13",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position": "12.000 10.213 14.159",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.13 0.12"
+      },
+      {
+        "id":"wf14",
+        "src":"#objWF",
+        "mtl":"#mtlWF",
+        "position": "12.000 10.213 1.627",
+        "rotation":"90 0 0",
+        "scale":"0.2 0.13 0.12"
+      }
+      ]
+  }
