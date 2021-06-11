@@ -9,6 +9,6 @@ script
 HTML
 Assets
 <a-asset-item id="objWF" src="https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/wall_frame/wall_frame.obj" crossorigin></a-asset-item>
-<a-asset-item id="mtlWF" src="https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/wall_frame/wall_frame.mtl"></a-asset-item>
+<a-asset-item id="mtlWF" src="https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/wall_frame/wall_frame.mtl" crossorigin></a-asset-item>
 Entity
 <a-entity id="wall_frame"></a-entity>
