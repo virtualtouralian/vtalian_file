@@ -1,0 +1,14 @@
+script
+    let wall_frame = await fetchMap('https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/json/wall_frame.json');
+    wall_frame.wall_frame.forEach(element => {
+      const wf = document.createElement('a-obj-model');
+      setAttributes(wf, {"id": element.id, "id":element.id, "src":"#objWF","mtl":"#mtlWF", "position":element.position, "rotation":element.rotation, "scale":element.scale})
+      document.getElementById("wall_frame").appendChild(wf);
+    })
+    
+HTML
+Assets
+<a-asset-item id="objWF" src="https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/wall_frame/wall_frame.obj" crossorigin></a-asset-item>
+<a-asset-item id="mtlWF" src="https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/wall_frame/wall_frame.mtl"></a-asset-item>
+Entity
+<a-entity id="wall_frame"></a-entity>
