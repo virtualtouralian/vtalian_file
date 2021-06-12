@@ -2,12 +2,13 @@
     "butterfly": [
         {
             "id": "kupu0",
-            "src": "https://alianbutterflypark.com/wp-content/uploads/2020/06/10-2.jpg",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/1/kupu1.jpg",
             "material": "side: double; blending: normal; transparent: true; height: 2; width: 1.7;",
             "position": "-3.516 1.104 0.1",
             "scale": "1 1 1",
             "modelId":"model1",
-            "model": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/Butterfly1.gltf",
+            "modelObj": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/1/Butterfly1.obj",
+            "modelMtl": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/1/Butterfly1.mtl",
             "content": [
                 {
                     "text": "value: KUPU-KUPU RAJA1112",
@@ -17,12 +18,13 @@
         },
         {
             "id": "kupu1",
-            "src": "https://alianbutterflypark.com/wp-content/uploads/2020/06/9-2.jpg",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/2/Kupu2.jpg",
             "material": "side: double; blending: normal; transparent: true; height: 2; width: 1.7;",
             "position": "3.516 1.104 0.1",
             "scale": "1 1 1",
             "modelId":"model2",
-            "model": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/Butterfly2.gltf",
+            "modelObj": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/2/Butterfly2.obj",
+            "modelMtl": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/2/Butterfly2.mtl",
             "content": [
                 {
                     "text": "value: KUPU-KUPU RAJA22",
@@ -32,12 +34,13 @@
         },
         {
             "id": "kupu2",
-            "src": "https://alianbutterflypark.com/wp-content/uploads/2020/06/7-2.jpg",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/Kupu3.jpg",
             "material": "side: double; blending: normal; transparent: true; height: 2; width: 1.7;",
             "position": "1.146 1.104 0.1",
             "scale": "1 1 1",
             "modelId":"model3",
-            "model": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/Butterfly3.gltf",
+            "modelObj": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/Butterfly3.obj",
+            "modelMtl": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/Butterfly3.mtl", 
             "content": [
                 {
                     "text": "value: KUPU-KUPU RAJA125",
