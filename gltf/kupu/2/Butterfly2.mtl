@@ -1,0 +1,57 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Dark_Grey
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/2/Dark%20Grey.png
+
+newmtl Helena_Body
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/troides_helena_body.png
+
+newmtl Helena_Front_Body
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/troides_helena_frontbody.png
+
+newmtl Helena_Sayap_Atas_
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/troides_helena_top.png
+
+newmtl Helena_Sayap_Bawah
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/troides_helena_bottom.png

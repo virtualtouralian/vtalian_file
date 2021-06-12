@@ -2,17 +2,38 @@
     "wall_audio": [
         {
             "id": "0",
-            "position": "-43.917 6.065 35.329",            
+            "position": "-43.989 6.649 42.109",
+            "rotation": "0 0 0",
             "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-anewbeginning.mp3);"
         },
         {
             "id": "1",
-            "position": "-43.917 6.065 30.948",            
+            "position": "-43.917 5.692 11.457",  
+            "rotation": "0 0 0",          
             "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-creativeminds.mp3);"
         },
         {
             "id": "2",
-            "position": "-43.917 6.065 27.211",            
+            "position": "-11.902 4.229 -3.125",      
+            "rotation": "0 0 0",      
+            "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3);"
+        },
+        {
+            "id": "3",
+            "position": "-22.878 5.900 -51.995",       
+            "rotation": "0 90 0",     
+            "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3);"
+        },
+        {
+            "id": "4",
+            "position": "43.995 7.945 -0.516",   
+            "rotation": "0 0 0",         
+            "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3);"
+        },
+        {
+            "id": "4",
+            "position": "11.902 6.447 44.938",   
+            "rotation": "0 0 0",         
             "sound" : "src: url(https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3);"
         }
     ]

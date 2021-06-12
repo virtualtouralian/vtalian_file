@@ -1,0 +1,57 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Dark_Grey.004
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/Dark%20Grey.png
+
+newmtl GAgamemnon_Bott_Wing.001
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/graphium_agamemnon.png
+
+newmtl GAgamemnon_Top_Wing.001
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/graphium_agamemnon.png
+
+newmtl Papilio_Body.003
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/papilio_memnon.png
+
+newmtl Papilio_Lower_Body.003
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/gltf/kupu/3/Papilio_memnon_heronus_female_tailed_20130803.jpg
