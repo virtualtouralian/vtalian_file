@@ -4,36 +4,42 @@
             "id": "0",
             "position": "-43.989 6.649 42.109",
             "rotation": "0 0 0",
+            "volume": "5",
             "sound" : "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/audio/Kupukupu.mp3);"
         },
         {
             "id": "1",
             "position": "-43.917 5.692 11.457",  
-            "rotation": "0 0 0",          
+            "rotation": "0 0 0",       
+            "volume": "5",   
             "sound" : "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/audio/Metamorfosis.mp3);"
         },
         {
             "id": "2",
             "position": "-11.902 4.229 -3.125",      
             "rotation": "0 0 0",      
+            "volume": "5",
             "sound" : "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/audio/Anatomi.mp3);"
         },
         {
             "id": "3",
             "position": "24.091 7.202 -51.995",       
             "rotation": "0 90 0",     
+            "volume": "5",
             "sound" : "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/audio/Peran.mp3);"
         },
         {
             "id": "4",
             "position": "43.995 7.945 -0.516",   
-            "rotation": "0 0 0",         
+            "rotation": "0 0 0",  
+            "volume": "5",       
             "sound" : "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/audio/Merawat.mp3);"
         },
         {
             "id": "4",
             "position": "11.902 6.447 44.938",   
-            "rotation": "0 0 0",         
+            "rotation": "0 0 0",     
+            "volume": "5",    
             "sound" : "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/audio/Bertahan.mp3);"
         }
     ]

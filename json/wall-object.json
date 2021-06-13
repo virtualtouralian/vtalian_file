@@ -5,7 +5,7 @@
             "name": "test",
             "scale": "1 1 0.1",
             "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/kupukupu.png); shader: flat",
-            "geometry": "width: 9.850; height: 6.040 ",
+            "geometry": "width: 8.510; height: 4.880 ",
             "position": "-43.900 11.008 37.744",
             "rotation": "0 90 0"
         }    ,
@@ -14,7 +14,7 @@
             "name": "test",
             "scale": "1 1 0.1",
             "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/meta1.jpg); shader: flat",
-            "geometry": "width: 9.530; height: 5.390 ",
+            "geometry": "width: 9.070; height: 4.760 ",
             "position": "-43.900 9.759 15.682",
             "rotation": "0 90 0"
         },      
@@ -77,7 +77,7 @@
             "name": "test",
             "scale": "1 1 0.1",
             "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/evolusi.png); shader: flat",
-            "geometry": "width: 15.000; height: 15.000 ",
+            "geometry": "width: 12.570; height: 12.480 ",
             "position": "-0.791 10.105 -51.888",
             "rotation": "0 0 0"
         },        
@@ -86,7 +86,7 @@
             "name": "test",
             "scale": "1 1 0.1",
             "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/alian.png); shader: flat",
-            "geometry": "width: 9.950; height: 6.000 ",
+            "geometry": "width: 9.240; height: 5.450 ",
             "position": "43.931 9.481 19.251",
             "rotation": "0 -90.000 0"
         },
@@ -95,7 +95,7 @@
             "name": "test",
             "scale": "1 1 0.1",
             "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/kamuflase.png); shader: flat",
-            "geometry": "width: 7.790; height: 5.000 ",
+            "geometry": "width: 7.740; height: 4.490 ",
             "position": "12.000 10.213 39.102",
             "rotation": "0 90.000 0"
         },
@@ -104,7 +104,7 @@
             "name": "test",
             "scale": "1 1 0.1",
             "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/penyamaran.png); shader: flat",
-            "geometry": "width: 7.790; height: 5.000 ",
+            "geometry": "width: 7.740; height: 4.490 ",
             "position": "12.000 10.213 26.660",
             "rotation": "0 90.000 0"
         },
@@ -113,7 +113,7 @@
             "name": "test",
             "scale": "1 1 0.1",
             "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/aposematik.png); shader: flat",
-            "geometry": "width: 7.790; height: 5.000 ",
+            "geometry": "width: 7.740; height: 4.490 ",
             "position": "12.000 10.213 14.159",
             "rotation": "0 90.000 0"
         },
@@ -122,7 +122,7 @@
             "name": "test",
             "scale": "1 1 0.1",
             "material": "src: url(https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/content/hibernasi.png); shader: flat",
-            "geometry": "width: 7.790; height: 5.000 ",
+            "geometry": "width: 7.740; height: 4.490 ",
             "position": "12.000 10.213 1.627",
             "rotation": "0 90.000 0"
         }
